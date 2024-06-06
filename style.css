@@ -18,3 +18,15 @@ fieldset
 {
 background-color: blanchedalmond;
 }
+.forms 
+{
+margin-bottom: 10px;
+}
+
+select{
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+}
+input[type="submit"]{
+    margin-top: 0.5rem
+}
